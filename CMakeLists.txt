@@ -28,6 +28,7 @@ install(
     src
     launch
     rviz
+    config
   DESTINATION share/${PROJECT_NAME}
 )
 
